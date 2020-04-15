@@ -1,2 +1,13 @@
-# EstructuraDeDatos
-Este repositorio incluye los programas creados en la asignatura "Estructura de Datos", la cual fue cursada en el semestre 2020-1 en la Escuela Superior de Cómputo del Instituto Politécnico Nacional, en México.
+# Estructura De Datos
+## Monteros Cervantes Miguel Angel
+**1CM10**
+
+Este repositorio tiene los programas realizados en la asignatura de *Estrucura de Datos*
+impartida en la *Escuela Superior de Cómputo* del *Instituto Politecnico Nacional*
+
+Los temas (A grandes rasgos) que se encuentran en este repositorio son:
+  * Listas
+  * Colas
+  * Pilas
+  * Tablas Hash
+  * Arboles
