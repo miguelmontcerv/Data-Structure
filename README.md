@@ -1,6 +1,6 @@
 # Estructura De Datos
 ## Monteros Cervantes Miguel Angel
-**1CM10**
+**Calificación Obtenida: 10**
 
 Este repositorio tiene los programas realizados en la asignatura de *Estrucura de Datos*
 impartida en la *Escuela Superior de Cómputo* del *Instituto Politecnico Nacional*
