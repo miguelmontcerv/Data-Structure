@@ -1,13 +1,13 @@
-# Estructura De Datos
+# Data Structure
 ## Monteros Cervantes Miguel Angel
-**Calificación Obtenida: 10**
+**Score: 10**
+**Teacher: Normar Saucedo Delgado**
 
-Este repositorio tiene los programas realizados en la asignatura de *Estrucura de Datos*
-impartida en la *Escuela Superior de Cómputo* del *Instituto Politecnico Nacional*
+This repository includes the codes created in the subject *Data Structure*, which was taken in the *2020-1 semester* at *Escuela Superior de Cómputo* of the *Instituto Politécnico Nacional*, in **Mexico.**
 
-Los temas (A grandes rasgos) que se encuentran en este repositorio son:
-  * Listas
+(Basically) the topics found in this repository are:
+  * List
   * Colas
-  * Pilas
-  * Tablas Hash
-  * Arboles
+  * Stack
+  * Hash Tables
+  * Trees
