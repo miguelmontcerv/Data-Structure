@@ -7,7 +7,7 @@ This repository includes the codes created in the subject *Data Structure*, whic
 
 (Basically) the topics found in this repository are:
   * List
-  * Colas
+  * Queue
   * Stack
   * Hash Tables
   * Trees
